@@ -1,2 +1,1 @@
-First README file
-Second line this time from GUI
+My first readme
